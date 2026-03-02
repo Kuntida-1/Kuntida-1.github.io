@@ -1,7 +1,7 @@
 # My Resume
 ## Hello my name is kuntida Yimsuan
-*Nice to meet you*
-**This is my Email: Kuntida.y@ku.th**
+*Nice to meet you*  
+**This is my Email: Kuntida.y@ku.th**  
 **Education**
 Kasetsart University — Chonburi, Thailand
 Bachelor of Science in Digital Science and Technology
